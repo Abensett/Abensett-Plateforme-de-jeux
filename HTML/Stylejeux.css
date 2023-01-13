@@ -1,0 +1,29 @@
+.menu
+{
+	position: fixed;
+  	right: 0;
+ 	top: 10%;
+  	width: 8em;
+  	color: rgb(76, 255, 192);
+	font-size: 2em;
+	border: 3px rgb(76, 255, 192) groove;
+	border-radius: 10px ;
+	background: rgba(0,0,0,0.6);
+	margin-right: 10px;
+}
+
+.text
+{
+	color: white;
+}
+.puissance
+{
+	width:220px;
+	height:190px
+}
+
+body
+{
+	background-color: grey;
+
+}
