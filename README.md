@@ -1,2 +1,5 @@
-# Abensett-Plateforme-de-jeux
-Plateforme de jeux réalisé en 2017 pour l'épreuve d'ISN du bac. Les jeux réalisés sont le Backgammon, Puissances et Simon.
+# Python games
+
+Don't be too harsh, it was our first big project.
+
+Réalisé avec Lila et Antoine.
